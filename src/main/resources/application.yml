@@ -1,2 +1,9 @@
 server:
     port: 8088
+
+spring:
+
+    security:
+        user:
+            name: username
+            password: passw0rd
